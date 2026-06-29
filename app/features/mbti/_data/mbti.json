@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "intj",
+    "slug": "intj",
+    "main": {
+      "name": "INTJ",
+      "title": "The Architect",
+      "image": "/images/mbti/intj.webp",
+      "shortDesc": "INTJs are strategic, independent thinkers who excel at turning complex ideas into actionable plans. They are driven by a relentless pursuit of knowledge and long-term goals.",
+      "quote": "The measure of intelligence is the ability to change.",
+      "quoteAuthor": "Albert Einstein"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "INTJ stands for Introverted, Intuitive, Thinking, and Judging.",
+          "They are one of the rarest personality types, making up about 2% of the population.",
+          "INTJs are visionaries who combine creativity with logic to solve complex problems.",
+          "They prefer working alone or in small groups and value efficiency above all.",
+          "Often described as the most independent of all types, they trust their own judgment deeply."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Strategic and long-term thinking",
+          "High self-confidence and decisiveness",
+          "Open-minded to new ideas backed by evidence",
+          "Strong determination and willpower",
+          "Excellent at identifying patterns and systems",
+          "Independent and self-sufficient"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can appear arrogant or dismissive of others' opinions",
+          "Tendency to overthink and over-plan",
+          "Struggles with emotional expression and empathy",
+          "May be overly critical of themselves and others",
+          "Can be stubborn when they believe they are right",
+          "Difficulty delegating tasks to others"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Software Engineer",
+          "Data Scientist",
+          "Surgeon",
+          "Lawyer",
+          "Financial Analyst",
+          "Architect",
+          "Professor or Researcher",
+          "Strategic Planner"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Elon Musk",
+          "Stephen Hawking",
+          "Friedrich Nietzsche",
+          "Arnold Schwarzenegger",
+          "Hillary Clinton",
+          "Christopher Nolan"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENFP – brings spontaneity and warmth that balances INTJ's intensity",
+          "ENTP – shares the love for debate and intellectual exploration",
+          "INFJ – mirrors INTJ's depth and long-term vision",
+          "ENTJ – aligns on goals, logic, and ambition"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intp",
+    "slug": "intp",
+    "main": {
+      "name": "INTP",
+      "title": "The Logician",
+      "image": "/images/mbti/intp.webp",
+      "shortDesc": "INTPs are inventive thinkers with a passion for theoretical problems and abstract ideas. They value logic above all and are constantly seeking to understand how things work.",
+      "quote": "The important thing is not to stop questioning. Curiosity has its own reason for existence.",
+      "quoteAuthor": "Albert Einstein"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "INTP stands for Introverted, Intuitive, Thinking, and Perceiving.",
+          "They make up roughly 3% of the population and are known for their analytical minds.",
+          "INTPs love exploring ideas and theories more than practical application.",
+          "They are often quiet in social settings but highly expressive in intellectual discussions.",
+          "They tend to question everything and rarely accept ideas without thorough examination."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Exceptional analytical and logical thinking",
+          "Creative and original in problem-solving",
+          "Open-minded and intellectually curious",
+          "Objective and honest",
+          "Strong ability to spot inconsistencies and flaws in reasoning",
+          "Able to think deeply about complex topics"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be absent-minded and lose track of practical responsibilities",
+          "Struggles with expressing emotions",
+          "May come across as condescending when explaining ideas",
+          "Prone to procrastination",
+          "Tends to second-guess and overcomplicate decisions",
+          "Can be insensitive to others' feelings"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Mathematician",
+          "Philosopher",
+          "Computer Scientist",
+          "Economist",
+          "Physicist",
+          "Software Developer",
+          "Research Scientist",
+          "Technical Writer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Albert Einstein",
+          "Bill Gates",
+          "Charles Darwin",
+          "Abraham Lincoln",
+          "Larry Page",
+          "Blaise Pascal"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENTJ – provides the direction and execution that INTP often lacks",
+          "ENFJ – offers warmth and social engagement that balances INTP",
+          "INFJ – shares depth and intellectual curiosity",
+          "ESTJ – grounds INTP's theories with practicality"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entj",
+    "slug": "entj",
+    "main": {
+      "name": "ENTJ",
+      "title": "The Commander",
+      "image": "/images/mbti/entj.webp",
+      "shortDesc": "ENTJs are bold, strategic leaders who thrive at organizing people and resources to achieve ambitious goals. They are natural executives with high standards for themselves and others.",
+      "quote": "The secret of getting ahead is getting started.",
+      "quoteAuthor": "Mark Twain"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ENTJ stands for Extraverted, Intuitive, Thinking, and Judging.",
+          "They make up about 2% of the population and are often found in leadership roles.",
+          "ENTJs have a natural drive to lead and are highly goal-oriented.",
+          "They are confident decision-makers who are not afraid of conflict or confrontation.",
+          "ENTJs thrive in structured environments and love turning big visions into reality."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Natural leadership and decisiveness",
+          "Strategic long-term planning",
+          "High energy and ambition",
+          "Excellent at delegating and organizing teams",
+          "Confident and assertive communicators",
+          "Driven to continuously improve themselves"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be domineering or impatient with others",
+          "May struggle to acknowledge their own emotions",
+          "Can come across as cold or ruthless in pursuit of goals",
+          "Tendency to be intolerant of inefficiency",
+          "May overlook the emotional needs of those around them",
+          "Can be overly aggressive in competitive situations"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "CEO or Executive",
+          "Lawyer",
+          "Business Consultant",
+          "Politician",
+          "Financial Manager",
+          "Entrepreneur",
+          "Military Officer",
+          "University Administrator"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Steve Jobs",
+          "Napoleon Bonaparte",
+          "Gordon Ramsay",
+          "Franklin D. Roosevelt",
+          "Charlize Theron",
+          "Jack Welch"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "INFP – brings depth, creativity, and values that balance ENTJ's drive",
+          "INTP – offers logical insight and innovation to ENTJ's plans",
+          "ENFP – adds enthusiasm and people skills to ENTJ's vision",
+          "INTJ – shares strategic thinking and ambition"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "entp",
+    "slug": "entp",
+    "main": {
+      "name": "ENTP",
+      "title": "The Debater",
+      "image": "/images/mbti/entp.webp",
+      "shortDesc": "ENTPs are quick-witted, innovative thinkers who love challenging ideas and exploring new possibilities. They thrive on intellectual debate and rarely accept the status quo.",
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "quoteAuthor": "Thomas Edison"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ENTP stands for Extraverted, Intuitive, Thinking, and Perceiving.",
+          "They make up about 3% of the population and are known for their sharp wit.",
+          "ENTPs are energized by debate, brainstorming, and exploring unconventional ideas.",
+          "They enjoy playing devil's advocate and often argue positions just to examine them.",
+          "ENTPs are highly adaptable and get bored easily with routine or repetitive tasks."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Quick and creative problem-solver",
+          "Charismatic and engaging communicator",
+          "Highly adaptable and versatile",
+          "Open to new ideas and perspectives",
+          "Excellent at seeing connections others miss",
+          "Energetic and enthusiastic in group settings"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be argumentative and combative",
+          "Struggles to follow through on projects",
+          "May ignore others' feelings in pursuit of being right",
+          "Prone to getting bored and losing interest",
+          "Can be insensitive and blunt",
+          "Has difficulty with routine and structure"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Entrepreneur",
+          "Lawyer",
+          "Creative Director",
+          "Political Strategist",
+          "Journalist",
+          "Marketing Executive",
+          "Consultant",
+          "Inventor"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Thomas Edison",
+          "Benjamin Franklin",
+          "Mark Twain",
+          "Celine Dion",
+          "Tom Hanks",
+          "Sacha Baron Cohen"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "INFJ – provides depth, warmth, and grounding for the ENTP",
+          "INTJ – matches ENTP's intellectual drive with strategic focus",
+          "ENFJ – brings emotional intelligence and structure to the relationship",
+          "INFP – offers creativity and values that complement ENTP's energy"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infj",
+    "slug": "infj",
+    "main": {
+      "name": "INFJ",
+      "title": "The Advocate",
+      "image": "/images/mbti/infj.webp",
+      "shortDesc": "INFJs are rare, empathetic idealists who are deeply committed to helping others and making the world a better place. They combine intuition with deep moral conviction.",
+      "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "quoteAuthor": "Martin Luther King Jr."
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "INFJ stands for Introverted, Intuitive, Feeling, and Judging.",
+          "They are the rarest personality type, making up only about 1–2% of the population.",
+          "INFJs are deeply intuitive and can often sense people's emotions and motivations.",
+          "They are driven by a strong sense of purpose and a desire for meaningful impact.",
+          "Despite being introverted, INFJs care deeply about the well-being of others."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Deep empathy and emotional intelligence",
+          "Visionary thinking with a focus on the future",
+          "Strong sense of integrity and values",
+          "Insightful and highly perceptive of others",
+          "Creative and artistic",
+          "Dedicated and determined when pursuing goals"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Prone to burnout from overgiving and perfectionism",
+          "Can be overly private and hard to get to know",
+          "Tendency to be overly idealistic",
+          "May have difficulty with conflict and confrontation",
+          "Can be stubborn about their core beliefs",
+          "Highly sensitive to criticism"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Counselor or Therapist",
+          "Social Worker",
+          "Writer or Author",
+          "Human Resources Manager",
+          "Professor",
+          "Doctor",
+          "Non-profit Leader",
+          "Psychologist"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Martin Luther King Jr.",
+          "Nelson Mandela",
+          "Oprah Winfrey",
+          "Mahatma Gandhi",
+          "Plato",
+          "Lady Gaga"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENTP – challenges INFJ's thinking while appreciating their depth",
+          "ENFP – shares idealism and passion for people and ideas",
+          "INTJ – mirrors INFJ's intuition and long-term thinking",
+          "INFP – connects through shared values and desire to help others"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infp",
+    "slug": "infp",
+    "main": {
+      "name": "INFP",
+      "title": "The Mediator",
+      "image": "/images/mbti/infp.webp",
+      "shortDesc": "INFPs are imaginative, empathetic idealists guided by their deep personal values. They seek meaning in everything and aspire to make the world a more authentic and compassionate place.",
+      "quote": "Not all those who wander are lost.",
+      "quoteAuthor": "J.R.R. Tolkien"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "INFP stands for Introverted, Intuitive, Feeling, and Perceiving.",
+          "They make up about 4% of the population and are known for their rich inner worlds.",
+          "INFPs are deeply idealistic and always looking for the good in people and the world.",
+          "They are guided by their personal values and seek authenticity in all relationships.",
+          "Creative and imaginative, INFPs often express themselves through art, writing, or music."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Deeply empathetic and compassionate",
+          "Creative and imaginative",
+          "Open-minded and accepting of others",
+          "Passionate about causes they believe in",
+          "Strong sense of personal values and ethics",
+          "Excellent listener and supportive friend"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be overly idealistic and impractical",
+          "Tends to take criticism very personally",
+          "May struggle with making decisions",
+          "Can be withdrawn and difficult to know",
+          "Prone to self-isolation when overwhelmed",
+          "Difficulty focusing on mundane or repetitive tasks"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Writer or Poet",
+          "Graphic Designer",
+          "Counselor",
+          "Social Worker",
+          "Musician",
+          "Teacher",
+          "Librarian",
+          "UX Designer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "J.R.R. Tolkien",
+          "William Shakespeare",
+          "Princess Diana",
+          "Audrey Hepburn",
+          "Johnny Depp",
+          "Frédéric Chopin"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENTJ – provides structure and drive that complements INFP's creativity",
+          "ENFJ – shares INFP's care for people and meaningful connections",
+          "INTJ – brings focus and logic that helps ground INFP's visions",
+          "INFJ – shares depth, empathy, and a desire for meaning"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfj",
+    "slug": "enfj",
+    "main": {
+      "name": "ENFJ",
+      "title": "The Protagonist",
+      "image": "/images/mbti/enfj.webp",
+      "shortDesc": "ENFJs are charismatic, empathetic leaders who are passionate about inspiring and uplifting the people around them. They are natural mentors with a gift for bringing out the best in others.",
+      "quote": "The best way to find yourself is to lose yourself in the service of others.",
+      "quoteAuthor": "Mahatma Gandhi"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ENFJ stands for Extraverted, Intuitive, Feeling, and Judging.",
+          "They make up about 2% of the population and are known as natural-born leaders.",
+          "ENFJs are deeply invested in the emotional well-being of those around them.",
+          "They are highly social and thrive in collaborative, people-centered environments.",
+          "ENFJs are often the glue that holds groups together through their warmth and vision."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Inspiring and motivating leader",
+          "Excellent communicator and listener",
+          "Highly empathetic and attuned to others' needs",
+          "Charismatic and persuasive",
+          "Organized and reliable",
+          "Deeply loyal and supportive to loved ones"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be overly idealistic about people",
+          "Tends to neglect their own needs to help others",
+          "May struggle with making tough decisions that hurt others",
+          "Can be overly sensitive to conflict",
+          "Prone to taking on too much responsibility",
+          "May have difficulty accepting criticism"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Teacher or Professor",
+          "Life Coach",
+          "HR Manager",
+          "Politician",
+          "Public Relations Specialist",
+          "Non-profit Director",
+          "Psychologist",
+          "Sales Manager"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Barack Obama",
+          "Oprah Winfrey",
+          "Nelson Mandela",
+          "Jennifer Lawrence",
+          "Abraham Maslow",
+          "Malala Yousafzai"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "INFP – connects deeply through values and empathy",
+          "INTP – balances ENFJ's emotion with logical insight",
+          "INFJ – shares vision, depth, and care for people",
+          "ISFP – brings creative, easygoing energy to complement ENFJ"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "enfp",
+    "slug": "enfp",
+    "main": {
+      "name": "ENFP",
+      "title": "The Campaigner",
+      "image": "/images/mbti/enfp.webp",
+      "shortDesc": "ENFPs are enthusiastic, creative free spirits who see life as full of exciting possibilities. They are deeply people-oriented and love inspiring others to live authentically.",
+      "quote": "You only live once, but if you do it right, once is enough.",
+      "quoteAuthor": "Mae West"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ENFP stands for Extraverted, Intuitive, Feeling, and Perceiving.",
+          "They make up about 7% of the population, one of the more common types.",
+          "ENFPs are energetic, optimistic, and genuinely excited by people and ideas.",
+          "They are known for their ability to connect deeply with others quickly.",
+          "ENFPs dislike routine and are always seeking new experiences and inspiration."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Enthusiastic and highly energetic",
+          "Excellent at connecting with people",
+          "Creative and full of innovative ideas",
+          "Optimistic and inspiring to those around them",
+          "Curious and open to new experiences",
+          "Empathetic and emotionally intuitive"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can struggle with focus and follow-through",
+          "Easily distracted by new ideas before finishing old ones",
+          "Prone to overthinking and emotional sensitivity",
+          "Can be disorganized and poor at time management",
+          "May be overly idealistic or naive",
+          "Struggles with highly structured or routine environments"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Journalist",
+          "Actor or Performer",
+          "Marketing Specialist",
+          "Entrepreneur",
+          "Counselor",
+          "Teacher",
+          "Event Planner",
+          "Creative Director"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Robin Williams",
+          "Will Smith",
+          "Ellen DeGeneres",
+          "Walt Disney",
+          "Mark Twain",
+          "Che Guevara"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "INTJ – provides depth, structure, and focus that grounds ENFP",
+          "INFJ – shares idealism and emotional depth",
+          "ENTJ – brings leadership and direction to ENFP's energy",
+          "INTP – connects with ENFP through intellectual curiosity"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istj",
+    "slug": "istj",
+    "main": {
+      "name": "ISTJ",
+      "title": "The Logistician",
+      "image": "/images/mbti/istj.webp",
+      "shortDesc": "ISTJs are responsible, dependable individuals who value tradition, order, and honesty. They are thorough and meticulous in their work, making them exceptionally reliable in any environment.",
+      "quote": "Well done is better than well said.",
+      "quoteAuthor": "Benjamin Franklin"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ISTJ stands for Introverted, Sensing, Thinking, and Judging.",
+          "They are one of the most common types, making up about 12% of the population.",
+          "ISTJs are known for their strong sense of duty and commitment to their responsibilities.",
+          "They prefer clear rules, structure, and well-established systems.",
+          "ISTJs are private individuals who take their word and commitments very seriously."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Extremely reliable and trustworthy",
+          "Methodical and detail-oriented",
+          "Strong work ethic and sense of responsibility",
+          "Calm and composed under pressure",
+          "Excellent at creating and following systems",
+          "Honest and straightforward in communication"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be overly rigid and resistant to change",
+          "May appear cold or emotionally distant",
+          "Tendency to be judgmental of those who don't follow rules",
+          "Struggles with creative or abstract thinking",
+          "Can be overly focused on the past and tradition",
+          "May have difficulty accepting alternative viewpoints"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Accountant or Auditor",
+          "Military Officer",
+          "Judge or Lawyer",
+          "Project Manager",
+          "Data Analyst",
+          "Police Officer",
+          "Bank Manager",
+          "Civil Engineer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "George Washington",
+          "Warren Buffett",
+          "Queen Elizabeth II",
+          "Jeff Bezos",
+          "Angela Merkel",
+          "Denzel Washington"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENFP – brings spontaneity and warmth that loosens ISTJ's rigidity",
+          "ESFP – adds fun and social energy to ISTJ's structured life",
+          "ISFJ – shares values of duty, loyalty, and commitment",
+          "ESTJ – aligns on structure, responsibility, and logic"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfj",
+    "slug": "isfj",
+    "main": {
+      "name": "ISFJ",
+      "title": "The Defender",
+      "image": "/images/mbti/isfj.webp",
+      "shortDesc": "ISFJs are warm, caring individuals who are deeply committed to protecting and supporting the people they love. They are humble, reliable, and go above and beyond for others.",
+      "quote": "No act of kindness, no matter how small, is ever wasted.",
+      "quoteAuthor": "Aesop"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ISFJ stands for Introverted, Sensing, Feeling, and Judging.",
+          "They make up about 13% of the population, one of the largest groups.",
+          "ISFJs are highly observant and remember small details about the people they care for.",
+          "They value harmony, tradition, and maintaining close, stable relationships.",
+          "Despite being introverted, ISFJs have a strong desire to be of service to others."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Supportive, warm, and compassionate",
+          "Extremely reliable and hardworking",
+          "Good memory for details, especially about people",
+          "Patient and loyal in relationships",
+          "Practical and grounded in their approach",
+          "Strong sense of social responsibility"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Tends to suppress their own needs to please others",
+          "Can be overly modest and underestimate themselves",
+          "Difficulty saying no and setting boundaries",
+          "Resistant to change and new approaches",
+          "May take criticism very personally",
+          "Prone to overworking and burnout"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Nurse or Healthcare Worker",
+          "Teacher",
+          "Social Worker",
+          "Administrative Assistant",
+          "Librarian",
+          "Interior Designer",
+          "Pharmacist",
+          "Human Resources Specialist"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Mother Teresa",
+          "Kate Middleton",
+          "Beyoncé",
+          "Rosa Parks",
+          "Jimmy Carter",
+          "Vin Diesel"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ESTP – brings excitement and action that balances ISFJ's stability",
+          "ESFP – adds energy and social warmth to ISFJ's caring nature",
+          "ISTJ – shares values of duty, loyalty, and structure",
+          "INFJ – connects through shared care for others and long-term thinking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estj",
+    "slug": "estj",
+    "main": {
+      "name": "ESTJ",
+      "title": "The Executive",
+      "image": "/images/mbti/estj.webp",
+      "shortDesc": "ESTJs are disciplined, practical organizers who excel at managing people and systems. They uphold tradition, value order, and are dedicated to getting things done the right way.",
+      "quote": "Order is not pressure which is imposed on society from without, but an equilibrium which is set up from within.",
+      "quoteAuthor": "Jose Ortega y Gasset"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ESTJ stands for Extraverted, Sensing, Thinking, and Judging.",
+          "They make up about 9% of the population and are natural managers and administrators.",
+          "ESTJs value rules, loyalty, and clear expectations in all aspects of life.",
+          "They are direct communicators who prefer facts over theories or emotions.",
+          "ESTJs are highly organized and take great pride in being dependable and efficient."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Strong leadership and organizational skills",
+          "Reliable and consistent in all they do",
+          "Direct and honest communicator",
+          "Excellent at creating and enforcing systems",
+          "Dedicated and hardworking",
+          "Good at managing and motivating teams"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be inflexible and resistant to change",
+          "May come across as bossy or overbearing",
+          "Struggles with abstract or theoretical thinking",
+          "Can be too focused on rules at the expense of context",
+          "May be judgmental of those who don't meet their standards",
+          "Difficulty acknowledging emotions in themselves and others"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Business Manager",
+          "Judge",
+          "Financial Officer",
+          "Military Commander",
+          "School Principal",
+          "Real Estate Agent",
+          "Police Chief",
+          "Auditor"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Judge Judy",
+          "Sonia Sotomayor",
+          "John D. Rockefeller",
+          "Henry Ford",
+          "Lyndon B. Johnson",
+          "Uma Thurman"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ISFP – brings creativity and openness that softens ESTJ's rigidity",
+          "ISTP – shares a practical, logical approach to problem-solving",
+          "INFP – provides emotional depth and values to balance ESTJ's focus",
+          "ISTJ – aligns fully on structure, duty, and responsibility"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfj",
+    "slug": "esfj",
+    "main": {
+      "name": "ESFJ",
+      "title": "The Consul",
+      "image": "/images/mbti/esfj.webp",
+      "shortDesc": "ESFJs are caring, sociable individuals who thrive on creating harmony and supporting the people around them. They are warm hosts and devoted friends who take their commitments seriously.",
+      "quote": "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear.",
+      "quoteAuthor": "Leo Buscaglia"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ESFJ stands for Extraverted, Sensing, Feeling, and Judging.",
+          "They are one of the most common types, making up about 12% of the population.",
+          "ESFJs are highly attuned to social dynamics and the needs of those around them.",
+          "They love bringing people together and creating a sense of community.",
+          "ESFJs are practical helpers who show love through action and care."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Warm, loyal, and nurturing",
+          "Highly organized and responsible",
+          "Excellent team player and community builder",
+          "Practical and good at getting things done",
+          "Strong interpersonal and social skills",
+          "Very attentive to the needs of others"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be overly concerned with social approval",
+          "May struggle with confrontation and conflict",
+          "Tends to put others' needs above their own",
+          "Can be inflexible about traditions and expectations",
+          "May be too sensitive to criticism",
+          "Difficulty adapting when social dynamics change"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Nurse",
+          "Teacher",
+          "Event Planner",
+          "Social Worker",
+          "Office Manager",
+          "Pediatrician",
+          "Public Relations Specialist",
+          "Restaurant Manager"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Taylor Swift",
+          "Bill Clinton",
+          "Jennifer Garner",
+          "Sally Field",
+          "Tyra Banks",
+          "Prince William"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ISFP – shares warmth and appreciation for harmony",
+          "ISTP – brings calm, practical problem-solving to the relationship",
+          "INFP – connects through shared empathy and care for others",
+          "ISFJ – aligns on loyalty, support, and community values"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "istp",
+    "slug": "istp",
+    "main": {
+      "name": "ISTP",
+      "title": "The Virtuoso",
+      "image": "/images/mbti/istp.webp",
+      "shortDesc": "ISTPs are hands-on problem solvers who thrive in exploring how things work. They are calm under pressure, highly observant, and prefer action over discussion.",
+      "quote": "Do not pray for an easy life, pray for the strength to endure a difficult one.",
+      "quoteAuthor": "Bruce Lee"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ISTP stands for Introverted, Sensing, Thinking, and Perceiving.",
+          "They make up about 5% of the population and are known for their mechanical aptitude.",
+          "ISTPs are independent and private, preferring to observe before acting.",
+          "They are highly adaptable and thrive in unpredictable, hands-on environments.",
+          "ISTPs are rational, efficient, and often excellent in a crisis."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Excellent troubleshooter and problem solver",
+          "Calm and composed in emergencies",
+          "Highly practical and action-oriented",
+          "Independent and self-sufficient",
+          "Great at understanding how systems and machines work",
+          "Flexible and adaptable to changing situations"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can appear cold or emotionally unavailable",
+          "May act before considering consequences",
+          "Gets bored easily with long-term commitments",
+          "Can be stubborn and resistant to direction",
+          "Struggles with expressing feelings",
+          "May have difficulty maintaining long-term relationships"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Mechanical Engineer",
+          "Pilot",
+          "Police Officer",
+          "Software Developer",
+          "Surgeon",
+          "Carpenter or Craftsman",
+          "Forensic Scientist",
+          "Military Personnel"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Clint Eastwood",
+          "Bruce Lee",
+          "Michael Jordan",
+          "Tom Cruise",
+          "Frank Zappa",
+          "Steve Jobs"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ESFJ – brings warmth and social connection to ISTP's reserved nature",
+          "ESTJ – provides direction and structure that ISTP may lack",
+          "ENFJ – adds emotional depth and relational skills",
+          "ENTJ – aligns on logic and practical decision-making"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "isfp",
+    "slug": "isfp",
+    "main": {
+      "name": "ISFP",
+      "title": "The Adventurer",
+      "image": "/images/mbti/isfp.webp",
+      "shortDesc": "ISFPs are gentle, creative souls who live in the moment and seek beauty in everything around them. They are deeply in touch with their senses and express themselves through art and action.",
+      "quote": "The purpose of art is washing the dust of daily life off our souls.",
+      "quoteAuthor": "Pablo Picasso"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ISFP stands for Introverted, Sensing, Feeling, and Perceiving.",
+          "They make up about 9% of the population and are known for their artistic sensibilities.",
+          "ISFPs are quiet but highly expressive through their chosen art form or craft.",
+          "They are deeply empathetic and caring, though they keep their feelings private.",
+          "ISFPs love freedom, spontaneity, and prefer to go with the flow."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Deeply empathetic and sensitive to others",
+          "Highly creative and artistically talented",
+          "Open-minded and non-judgmental",
+          "Charming and easy to be around",
+          "Lives fully in the present moment",
+          "Passionate and dedicated to personal values"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Highly sensitive to conflict and criticism",
+          "Can be unpredictable and difficult to plan with",
+          "Tendency to avoid long-term planning",
+          "May struggle with low self-esteem",
+          "Can be overly private and hard to read",
+          "Difficulty expressing their deeper thoughts and feelings"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Artist or Painter",
+          "Fashion Designer",
+          "Musician",
+          "Photographer",
+          "Physical Therapist",
+          "Veterinarian",
+          "Chef",
+          "Interior Designer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Michael Jackson",
+          "Marilyn Monroe",
+          "David Beckham",
+          "Frida Kahlo",
+          "Bob Dylan",
+          "Britney Spears"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ENFJ – provides vision and structure that supports ISFP's creativity",
+          "ESFJ – shares warmth and care for others in a complementary way",
+          "ESTJ – grounds ISFP with practicality and direction",
+          "ENTJ – challenges ISFP to grow beyond their comfort zone"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "estp",
+    "slug": "estp",
+    "main": {
+      "name": "ESTP",
+      "title": "The Entrepreneur",
+      "image": "/images/mbti/estp.webp",
+      "shortDesc": "ESTPs are bold, energetic thrill-seekers who are at their best when taking action. They are perceptive, charming, and excel at reading people and adapting to any situation.",
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "quoteAuthor": "Helen Keller"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ESTP stands for Extraverted, Sensing, Thinking, and Perceiving.",
+          "They make up about 4% of the population and are known for their bold, direct nature.",
+          "ESTPs are risk-takers who love fast-paced environments and immediate results.",
+          "They are highly observant and skilled at reading people and social dynamics.",
+          "ESTPs are pragmatic problem-solvers who prefer to learn by doing."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Bold, action-oriented, and decisive",
+          "Excellent people skills and social intelligence",
+          "Quick thinkers who adapt rapidly to new situations",
+          "Highly perceptive and observant",
+          "Energetic and motivating to those around them",
+          "Practical and resourceful in a crisis"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be impatient and impulsive",
+          "Tends to be insensitive to others' emotions",
+          "May take risks without thinking of consequences",
+          "Gets bored easily in routine environments",
+          "Can be blunt or confrontational",
+          "May struggle with long-term planning and commitments"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Entrepreneur",
+          "Sales Manager",
+          "Detective",
+          "Athlete or Coach",
+          "Emergency Medical Technician",
+          "Real Estate Agent",
+          "Marketing Manager",
+          "Stockbroker"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Donald Trump",
+          "Madonna",
+          "Jack Nicholson",
+          "Eddie Murphy",
+          "Evel Knievel",
+          "Ernest Hemingway"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ISFJ – brings warmth and reliability that grounds ESTP",
+          "ISTJ – provides structure and follow-through ESTP often lacks",
+          "INFJ – adds depth and emotional intuition to ESTP's dynamic energy",
+          "ISFP – connects through a shared love of living in the present"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "esfp",
+    "slug": "esfp",
+    "main": {
+      "name": "ESFP",
+      "title": "The Entertainer",
+      "image": "/images/mbti/esfp.webp",
+      "shortDesc": "ESFPs are spontaneous, energetic performers who love life and people. They live fully in the present moment and bring excitement and warmth wherever they go.",
+      "quote": "To live will be an awfully big adventure.",
+      "quoteAuthor": "J.M. Barrie"
+    },
+    "infos": [
+      {
+        "title": "Overview",
+        "items": [
+          "ESFP stands for Extraverted, Sensing, Feeling, and Perceiving.",
+          "They make up about 9% of the population and are natural entertainers.",
+          "ESFPs are vibrant, fun-loving individuals who enjoy being the center of attention.",
+          "They are deeply people-oriented and have a natural talent for making others feel included.",
+          "ESFPs are practical and prefer hands-on experience over theoretical learning."
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Spontaneous, fun, and full of energy",
+          "Highly sociable and easy to connect with",
+          "Observant and attuned to others' emotional needs",
+          "Enthusiastic and encouraging to those around them",
+          "Practical and quick to act in the moment",
+          "Natural performer and entertainer"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can struggle with long-term focus and planning",
+          "Easily bored by routine or repetitive tasks",
+          "May avoid difficult or uncomfortable topics",
+          "Can be overly sensitive to conflict",
+          "Tends to be impulsive with decisions",
+          "May struggle with academic or highly structured environments"
+        ]
+      },
+      {
+        "title": "Career Matches",
+        "items": [
+          "Actor or Performer",
+          "Event Planner",
+          "Flight Attendant",
+          "Tour Guide",
+          "Nurse or Healthcare Worker",
+          "Sales Representative",
+          "Fashion Stylist",
+          "Elementary School Teacher"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Marilyn Monroe",
+          "Elvis Presley",
+          "Jamie Oliver",
+          "Serena Williams",
+          "Miley Cyrus",
+          "Adele"
+        ]
+      },
+      {
+        "title": "Compatible Types",
+        "items": [
+          "ISTJ – provides stability, structure, and reliability for ESFP",
+          "ISFJ – shares warmth, care, and a love of helping others",
+          "INTJ – brings depth and long-term thinking that complements ESFP",
+          "ISTP – connects through shared practicality and love of action"
+        ]
+      }
+    ]
+  }
+]

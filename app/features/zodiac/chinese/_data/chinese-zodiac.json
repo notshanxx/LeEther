@@ -1,0 +1,890 @@
+[
+  {
+    "id": "rat",
+    "slug": "rat",
+    "main": {
+      "name": "Rat",
+      "title": "The Rat",
+      "image": "/images/chinese-zodiac/rat.webp",
+      "shortDesc": "The Rat is clever, resourceful, and quick-witted. People born in the Year of the Rat are natural survivors with strong instincts and a talent for seizing opportunities.",
+      "quotes": [
+        { "quote": "Wit is the key, I think, to anybody's heart.", "quoteAuthor": "Julia Roberts" },
+        { "quote": "Opportunities don't happen. You create them.", "quoteAuthor": "Chris Grosser" },
+        { "quote": "The secret of getting ahead is getting started.", "quoteAuthor": "Mark Twain" },
+        { "quote": "Intelligence is the ability to adapt to change.", "quoteAuthor": "Stephen Hawking" },
+        { "quote": "Resourcefulness is the ultimate human capital.", "quoteAuthor": "Unknown" },
+        { "quote": "Success is where preparation and opportunity meet.", "quoteAuthor": "Bobby Unser" },
+        { "quote": "The cleverest of all is the man who calls himself a fool at least once a month.", "quoteAuthor": "Fyodor Dostoevsky" },
+        { "quote": "Adapt what is useful, reject what is useless, and add what is specifically your own.", "quoteAuthor": "Bruce Lee" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1924", "1936", "1948", "1960", "1972", "1984", "1996", "2008", "2020"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Rat (鼠)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Water"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["11 PM – 1 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["2", "3"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Blue", "Gold", "Green"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Clever", "Resourceful", "Adaptable", "Quick-witted", "Charming", "Sociable"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Highly intelligent and observant", "Excellent problem-solver", "Charming and sociable", "Great at managing finances"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be opportunistic or manipulative", "Tendency to be overly cautious", "Sometimes greedy or stingy", "Can be stubborn under pressure"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Ox", "Dragon", "Monkey"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Entrepreneur", "Politician", "Writer", "Accountant", "Engineer"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Shakespeare", "Mozart", "George Washington", "Katy Perry"]
+      }
+    ]
+  },
+  {
+    "id": "ox",
+    "slug": "ox",
+    "main": {
+      "name": "Ox",
+      "title": "The Ox",
+      "image": "/images/chinese-zodiac/ox.webp",
+      "shortDesc": "The Ox is dependable, strong, and hardworking. Those born in the Year of the Ox are known for their patience, determination, and unwavering sense of duty.",
+      "quotes": [
+        { "quote": "The harder I work, the luckier I get.", "quoteAuthor": "Samuel Goldwyn" },
+        { "quote": "Patience is bitter, but its fruit is sweet.", "quoteAuthor": "Aristotle" },
+        { "quote": "Strength does not come from physical capacity. It comes from an indomitable will.", "quoteAuthor": "Mahatma Gandhi" },
+        { "quote": "Perseverance is not a long race; it is many short races one after the other.", "quoteAuthor": "Walter Elliot" },
+        { "quote": "Diligence is the mother of good fortune.", "quoteAuthor": "Miguel de Cervantes" },
+        { "quote": "Great works are performed not by strength but by perseverance.", "quoteAuthor": "Samuel Johnson" },
+        { "quote": "It does not matter how slowly you go as long as you do not stop.", "quoteAuthor": "Confucius" },
+        { "quote": "The only way to do great work is to love what you do.", "quoteAuthor": "Steve Jobs" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1925", "1937", "1949", "1961", "1973", "1985", "1997", "2009", "2021"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Ox (牛)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Earth"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["1 AM – 3 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["1", "4"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["White", "Yellow", "Green"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Dependable", "Patient", "Hardworking", "Honest", "Stubborn", "Methodical"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Extremely reliable and trustworthy", "Strong work ethic", "Calm and composed under pressure", "Loyal and devoted"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Resistant to change", "Can be overly rigid or inflexible", "Slow to express emotions", "Tendency to overwork"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Rat", "Snake", "Rooster"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Farmer", "Doctor", "Lawyer", "Teacher", "Architect"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Barack Obama", "Princess Diana", "Walt Disney", "Napoleon Bonaparte"]
+      }
+    ]
+  },
+  {
+    "id": "tiger",
+    "slug": "tiger",
+    "main": {
+      "name": "Tiger",
+      "title": "The Tiger",
+      "image": "/images/chinese-zodiac/tiger.webp",
+      "shortDesc": "The Tiger is bold, passionate, and daring. Born leaders, those under the Tiger sign are courageous and charismatic with an unstoppable drive to overcome every challenge.",
+      "quotes": [
+        { "quote": "The tiger does not lose sleep over the opinion of sheep.", "quoteAuthor": "Ziad K. Abdelnour" },
+        { "quote": "Courage is not the absence of fear, but the triumph over it.", "quoteAuthor": "Nelson Mandela" },
+        { "quote": "The most dangerous creation of any society is the man who has nothing to lose.", "quoteAuthor": "James Baldwin" },
+        { "quote": "I am not afraid of storms, for I am learning how to sail my ship.", "quoteAuthor": "Louisa May Alcott" },
+        { "quote": "It takes courage to grow up and become who you really are.", "quoteAuthor": "E.E. Cummings" },
+        { "quote": "Dare to be yourself.", "quoteAuthor": "André Gide" },
+        { "quote": "Life shrinks or expands in proportion to one's courage.", "quoteAuthor": "Anaïs Nin" },
+        { "quote": "Fortune favors the brave.", "quoteAuthor": "Virgil" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1926", "1938", "1950", "1962", "1974", "1986", "1998", "2010", "2022"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Tiger (虎)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Wood"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["3 AM – 5 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["1", "3", "4"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Blue", "Grey", "Orange"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Brave", "Competitive", "Unpredictable", "Charming", "Confident", "Rebellious"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Natural-born leader", "Fearless in the face of danger", "Magnetic and charismatic", "Passionate and enthusiastic"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Impulsive decision-making", "Can be arrogant", "Prone to restlessness", "Difficulty accepting authority"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Horse", "Dragon", "Pig"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Military officer", "Politician", "Activist", "Actor", "Explorer"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Marilyn Monroe", "Leonardo DiCaprio", "Queen Elizabeth II", "Sun Yat-sen"]
+      }
+    ]
+  },
+  {
+    "id": "rabbit",
+    "slug": "rabbit",
+    "main": {
+      "name": "Rabbit",
+      "title": "The Rabbit",
+      "image": "/images/chinese-zodiac/rabbit.webp",
+      "shortDesc": "The Rabbit is gentle, elegant, and compassionate. People born in the Year of the Rabbit are known for their kindness, diplomacy, and refined sense of beauty.",
+      "quotes": [
+        { "quote": "Kindness is the language which the deaf can hear and the blind can see.", "quoteAuthor": "Mark Twain" },
+        { "quote": "Grace is the beauty of form under the influence of freedom.", "quoteAuthor": "Friedrich Schiller" },
+        { "quote": "In a gentle way, you can shake the world.", "quoteAuthor": "Mahatma Gandhi" },
+        { "quote": "Peace begins with a smile.", "quoteAuthor": "Mother Teresa" },
+        { "quote": "Elegance is the only beauty that never fades.", "quoteAuthor": "Audrey Hepburn" },
+        { "quote": "The best index to a person's character is how they treat people who can't do them any good.", "quoteAuthor": "Abigail Van Buren" },
+        { "quote": "Compassion is the basis of morality.", "quoteAuthor": "Arthur Schopenhauer" },
+        { "quote": "A gentle word opens an iron gate.", "quoteAuthor": "Bulgarian Proverb" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1927", "1939", "1951", "1963", "1975", "1987", "1999", "2011", "2023"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Rabbit (兔)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Wood"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["5 AM – 7 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["3", "4", "6"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Red", "Pink", "Purple", "Blue"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Gentle", "Elegant", "Diplomatic", "Sensitive", "Cautious", "Artistic"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Excellent mediator and peacemaker", "Highly empathetic and kind", "Refined taste in art and culture", "Reliable and sincere in relationships"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Avoids conflict too much", "Can be indecisive", "Overly cautious and hesitant", "Tends to be superficial at times"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Goat", "Pig", "Dog"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Diplomat", "Therapist", "Artist", "Fashion designer", "Teacher"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Albert Einstein", "Angelina Jolie", "Brad Pitt", "Confucius"]
+      }
+    ]
+  },
+  {
+    "id": "dragon",
+    "slug": "dragon",
+    "main": {
+      "name": "Dragon",
+      "title": "The Dragon",
+      "image": "/images/chinese-zodiac/dragon.webp",
+      "shortDesc": "The Dragon is powerful, passionate, and larger than life. The most auspicious sign in the Chinese zodiac, Dragons are natural-born leaders full of energy and ambition.",
+      "quotes": [
+        { "quote": "I am not a product of my circumstances. I am a product of my decisions.", "quoteAuthor": "Stephen Covey" },
+        { "quote": "The most powerful weapon on earth is the human soul on fire.", "quoteAuthor": "Ferdinand Foch" },
+        { "quote": "Greatness is not a function of circumstance. Greatness is largely a matter of conscious choice.", "quoteAuthor": "Jim Collins" },
+        { "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.", "quoteAuthor": "Ralph Waldo Emerson" },
+        { "quote": "A leader is one who knows the way, goes the way, and shows the way.", "quoteAuthor": "John C. Maxwell" },
+        { "quote": "Ambition is the path to success.", "quoteAuthor": "Bill Bradley" },
+        { "quote": "The dragon is more afraid of you than you are of him.", "quoteAuthor": "Unknown" },
+        { "quote": "Set your life on fire. Seek those who fan your flames.", "quoteAuthor": "Rumi" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1928", "1940", "1952", "1964", "1976", "1988", "2000", "2012", "2024"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Dragon (龙)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Earth"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["7 AM – 9 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["1", "6", "7"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Gold", "Silver", "Greyish White"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Charismatic", "Confident", "Ambitious", "Enthusiastic", "Domineering", "Visionary"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Incredibly driven and ambitious", "Natural leader with commanding presence", "Energetic and enthusiastic", "Visionary thinker"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be arrogant and demanding", "Impatient with others", "Prone to taking unnecessary risks", "Difficulty accepting failure"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Rat", "Tiger", "Snake", "Monkey"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["CEO", "Entrepreneur", "Politician", "Inventor", "Military leader"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Bruce Lee", "Martin Luther King Jr.", "Rihanna", "Sigmund Freud"]
+      }
+    ]
+  },
+  {
+    "id": "snake",
+    "slug": "snake",
+    "main": {
+      "name": "Snake",
+      "title": "The Snake",
+      "image": "/images/chinese-zodiac/snake.webp",
+      "shortDesc": "The Snake is wise, intuitive, and mysterious. Those born in the Year of the Snake are deep thinkers with a refined sense of style and an innate ability to read people.",
+      "quotes": [
+        { "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.", "quoteAuthor": "Albert Einstein" },
+        { "quote": "The snake that cannot cast its skin has to die.", "quoteAuthor": "Friedrich Nietzsche" },
+        { "quote": "Know yourself and you will win all battles.", "quoteAuthor": "Sun Tzu" },
+        { "quote": "The quieter you become, the more you can hear.", "quoteAuthor": "Ram Dass" },
+        { "quote": "Mystery is at the heart of creativity.", "quoteAuthor": "Julia Cameron" },
+        { "quote": "Intuition is the highest form of intelligence.", "quoteAuthor": "Gerd Gigerenzer" },
+        { "quote": "Still waters run deep.", "quoteAuthor": "Latin Proverb" },
+        { "quote": "Wisdom begins in wonder.", "quoteAuthor": "Socrates" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1929", "1941", "1953", "1965", "1977", "1989", "2001", "2013", "2025"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Snake (蛇)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Fire"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["9 AM – 11 AM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["2", "8", "9"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Black", "Red", "Yellow"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Wise", "Intuitive", "Elegant", "Mysterious", "Possessive", "Philosophical"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Highly intelligent and perceptive", "Excellent strategic thinker", "Calm and composed", "Sophisticated and graceful"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be secretive and distrustful", "Prone to jealousy", "Slow to forgive", "Can be materialistic"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Ox", "Rooster", "Dragon"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Philosopher", "Scientist", "Psychologist", "Investigator", "Financial analyst"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Abraham Lincoln", "Audrey Hepburn", "Pablo Picasso", "Oprah Winfrey"]
+      }
+    ]
+  },
+  {
+    "id": "horse",
+    "slug": "horse",
+    "main": {
+      "name": "Horse",
+      "title": "The Horse",
+      "image": "/images/chinese-zodiac/horse.webp",
+      "shortDesc": "The Horse is free-spirited, energetic, and adventurous. Those born in the Year of the Horse are passionate and independent souls who crave freedom above all else.",
+      "quotes": [
+        { "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.", "quoteAuthor": "Mahatma Gandhi" },
+        { "quote": "The spirit, the will to win, and the will to excel are the things that endure.", "quoteAuthor": "Vince Lombardi" },
+        { "quote": "No hour of life is wasted that is spent in the saddle.", "quoteAuthor": "Winston Churchill" },
+        { "quote": "Life is meant to be lived, and curiosity must be kept alive.", "quoteAuthor": "Eleanor Roosevelt" },
+        { "quote": "Energy and persistence conquer all things.", "quoteAuthor": "Benjamin Franklin" },
+        { "quote": "The horse, with beauty unsurpassed, strength immeasurable and grace unlike any other, still he runs free.", "quoteAuthor": "Unknown" },
+        { "quote": "Adventure is not outside man; it is within.", "quoteAuthor": "George Eliot" },
+        { "quote": "Live in the sunshine, swim the sea, drink the wild air.", "quoteAuthor": "Ralph Waldo Emerson" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1930", "1942", "1954", "1966", "1978", "1990", "2002", "2014", "2026"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Horse (马)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Fire"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["11 AM – 1 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["2", "3", "7"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Yellow", "Green"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Energetic", "Independent", "Passionate", "Cheerful", "Impatient", "Adventurous"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Vibrant and full of energy", "Excellent communicator", "Warm and cheerful personality", "Independent and self-reliant"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be impulsive and reckless", "Struggles with commitment", "Impatient with details", "Prone to mood swings"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Tiger", "Goat", "Dog"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Athlete", "Journalist", "Sales manager", "Tour guide", "Performer"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Genghis Khan", "Isaac Newton", "Rembrandt", "Kobe Bryant"]
+      }
+    ]
+  },
+  {
+    "id": "goat",
+    "slug": "goat",
+    "main": {
+      "name": "Goat",
+      "title": "The Goat",
+      "image": "/images/chinese-zodiac/goat.webp",
+      "shortDesc": "The Goat is creative, gentle, and empathetic. Those born in the Year of the Goat have a deep love for beauty and nature, and thrive in peaceful, harmonious environments.",
+      "quotes": [
+        { "quote": "Creativity is intelligence having fun.", "quoteAuthor": "Albert Einstein" },
+        { "quote": "The earth has music for those who listen.", "quoteAuthor": "George Santayana" },
+        { "quote": "Art is not what you see, but what you make others see.", "quoteAuthor": "Edgar Degas" },
+        { "quote": "Gentleness can only be expected from the strong.", "quoteAuthor": "Leo Buscaglia" },
+        { "quote": "To be kind is more important than to be right.", "quoteAuthor": "Unknown" },
+        { "quote": "Beauty is everywhere a welcome guest.", "quoteAuthor": "Johann Wolfgang von Goethe" },
+        { "quote": "In every walk with nature, one receives far more than he seeks.", "quoteAuthor": "John Muir" },
+        { "quote": "The purpose of art is washing the dust of daily life off our souls.", "quoteAuthor": "Pablo Picasso" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1931", "1943", "1955", "1967", "1979", "1991", "2003", "2015", "2027"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Goat (羊)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Earth"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["1 PM – 3 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["2", "7"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Brown", "Red", "Purple"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Creative", "Gentle", "Empathetic", "Artistic", "Indecisive", "Dreamy"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Highly creative and artistic", "Compassionate and caring", "Strong aesthetic sensibility", "Flexible and easy-going"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be overly dependent", "Indecisive and easily swayed", "Pessimistic during tough times", "Avoids confrontation"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Rabbit", "Horse", "Pig"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Artist", "Musician", "Writer", "Gardener", "Social worker"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Michelangelo", "Mark Twain", "Bill Gates", "Steve Jobs"]
+      }
+    ]
+  },
+  {
+    "id": "monkey",
+    "slug": "monkey",
+    "main": {
+      "name": "Monkey",
+      "title": "The Monkey",
+      "image": "/images/chinese-zodiac/monkey.webp",
+      "shortDesc": "The Monkey is intelligent, mischievous, and endlessly curious. Born problem-solvers, those under the Monkey sign are witty, versatile, and thrive in unpredictable situations.",
+      "quotes": [
+        { "quote": "The measure of intelligence is the ability to change.", "quoteAuthor": "Albert Einstein" },
+        { "quote": "Stay hungry, stay foolish.", "quoteAuthor": "Steve Jobs" },
+        { "quote": "Play is the highest form of research.", "quoteAuthor": "Albert Einstein" },
+        { "quote": "Innovation is seeing what everybody has seen and thinking what nobody has thought.", "quoteAuthor": "Dr. Albert Szent-Györgyi" },
+        { "quote": "The most wasted of all days is one without laughter.", "quoteAuthor": "E.E. Cummings" },
+        { "quote": "Logic will get you from A to Z; imagination will get you everywhere.", "quoteAuthor": "Albert Einstein" },
+        { "quote": "Life is more fun if you play games.", "quoteAuthor": "Roald Dahl" },
+        { "quote": "Genius is playful.", "quoteAuthor": "Friedrich Schiller" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1932", "1944", "1956", "1968", "1980", "1992", "2004", "2016", "2028"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Monkey (猴)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Metal"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["3 PM – 5 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["4", "9"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["White", "Blue", "Gold"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Clever", "Curious", "Mischievous", "Versatile", "Witty", "Innovative"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Brilliant problem-solver", "Quick learner and highly adaptable", "Entertaining and fun to be around", "Creative and inventive"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be manipulative or deceitful", "Easily bored", "Lack of perseverance", "Can be arrogant about intelligence"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Rat", "Dragon", "Snake"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Scientist", "Comedian", "Trader", "Inventor", "Journalist"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Leonardo da Vinci", "Julius Caesar", "Elizabeth I", "Will Smith"]
+      }
+    ]
+  },
+  {
+    "id": "rooster",
+    "slug": "rooster",
+    "main": {
+      "name": "Rooster",
+      "title": "The Rooster",
+      "image": "/images/chinese-zodiac/rooster.webp",
+      "shortDesc": "The Rooster is confident, hardworking, and punctual. Those born in the Year of the Rooster are meticulous and proud individuals who take great care in everything they do.",
+      "quotes": [
+        { "quote": "Confidence is not 'they will like me.' Confidence is 'I'll be fine if they don't.'", "quoteAuthor": "Christina Grimmie" },
+        { "quote": "Attention to detail is the hallmark of greatness.", "quoteAuthor": "Unknown" },
+        { "quote": "Punctuality is the virtue of the bored.", "quoteAuthor": "Evelyn Waugh" },
+        { "quote": "The devil is in the details.", "quoteAuthor": "Ludwig Mies van der Rohe" },
+        { "quote": "Pride in your work is a good thing. Obsessing over it is another.", "quoteAuthor": "Unknown" },
+        { "quote": "Perfection is not attainable. But if we chase perfection, we can catch excellence.", "quoteAuthor": "Vince Lombardi" },
+        { "quote": "Honesty is the first chapter in the book of wisdom.", "quoteAuthor": "Thomas Jefferson" },
+        { "quote": "Do what you do so well that they will want to see it again.", "quoteAuthor": "Walt Disney" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1933", "1945", "1957", "1969", "1981", "1993", "2005", "2017", "2029"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Rooster (鸡)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Metal"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["5 PM – 7 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["5", "7", "8"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Gold", "Brown", "Yellow"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Observant", "Hardworking", "Courageous", "Punctual", "Critical", "Confident"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Highly organized and efficient", "Honest and straightforward", "Dependable in a crisis", "Sharp eye for detail"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be overly critical", "Vain and boastful at times", "Inflexible in opinions", "Can come across as blunt or harsh"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Ox", "Snake", "Dragon"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Surgeon", "Military officer", "Chef", "Accountant", "PR manager"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Britney Spears", "Jennifer Aniston", "Beyoncé", "Eric Clapton"]
+      }
+    ]
+  },
+  {
+    "id": "dog",
+    "slug": "dog",
+    "main": {
+      "name": "Dog",
+      "title": "The Dog",
+      "image": "/images/chinese-zodiac/dog.webp",
+      "shortDesc": "The Dog is loyal, honest, and deeply caring. Those born in the Year of the Dog are steadfast companions who value justice and will always stand up for what is right.",
+      "quotes": [
+        { "quote": "Loyalty means nothing unless it has at its heart the absolute principle of self-sacrifice.", "quoteAuthor": "Woodrow Wilson" },
+        { "quote": "The only way to have a friend is to be one.", "quoteAuthor": "Ralph Waldo Emerson" },
+        { "quote": "Integrity is doing the right thing, even when no one is watching.", "quoteAuthor": "C.S. Lewis" },
+        { "quote": "A dog is the only thing on earth that loves you more than he loves himself.", "quoteAuthor": "Josh Billings" },
+        { "quote": "Justice will not be served until those who are unaffected are as outraged as those who are.", "quoteAuthor": "Benjamin Franklin" },
+        { "quote": "The price of anything is the amount of life you exchange for it.", "quoteAuthor": "Henry David Thoreau" },
+        { "quote": "Honesty is the best policy.", "quoteAuthor": "Benjamin Franklin" },
+        { "quote": "Where there is loyalty, weapons are of no use.", "quoteAuthor": "Queen Rania Al Abdullah" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1934", "1946", "1958", "1970", "1982", "1994", "2006", "2018", "2030"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Dog (狗)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Earth"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yang"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["7 PM – 9 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["3", "4", "9"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Green", "Red", "Purple"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Loyal", "Honest", "Brave", "Diligent", "Anxious", "Stubborn"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Unwavering loyalty to loved ones", "Strong sense of justice and fairness", "Reliable and responsible", "Courageous when protecting others"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be overly anxious or worried", "Stubborn once decided on something", "Prone to cynicism", "Can be overly critical of others"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Tiger", "Rabbit", "Horse"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Judge", "Police officer", "Nurse", "Counselor", "Activist"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Mother Teresa", "Donald Trump", "Michael Jackson", "Madonna"]
+      }
+    ]
+  },
+  {
+    "id": "pig",
+    "slug": "pig",
+    "main": {
+      "name": "Pig",
+      "title": "The Pig",
+      "image": "/images/chinese-zodiac/pig.webp",
+      "shortDesc": "The Pig is generous, diligent, and warm-hearted. Those born in the Year of the Pig are sincere and compassionate, with an optimistic outlook that draws others to them.",
+      "quotes": [
+        { "quote": "Generosity is giving more than you can, and pride is taking less than you need.", "quoteAuthor": "Kahlil Gibran" },
+        { "quote": "The best way to find yourself is to lose yourself in the service of others.", "quoteAuthor": "Mahatma Gandhi" },
+        { "quote": "Wherever there is a human in need, there is an opportunity for kindness.", "quoteAuthor": "Unknown" },
+        { "quote": "Happiness is not something you postpone for the future; it is something you design for the present.", "quoteAuthor": "Jim Rohn" },
+        { "quote": "An optimist is someone who figures that taking a step backward after a step forward is not a disaster, it's more like a cha-cha.", "quoteAuthor": "Robert Brault" },
+        { "quote": "The simplest acts of kindness are by far more powerful than a thousand heads bowing in prayer.", "quoteAuthor": "Mahatma Gandhi" },
+        { "quote": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.", "quoteAuthor": "Maya Angelou" },
+        { "quote": "Enjoy every moment you have, because in life, there are no rewinds, only flashbacks.", "quoteAuthor": "Anurag Prakash Ray" }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Years",
+        "items": ["1935", "1947", "1959", "1971", "1983", "1995", "2007", "2019", "2031"]
+      },
+      {
+        "title": "Symbol",
+        "items": ["Pig (猪)"]
+      },
+      {
+        "title": "Element",
+        "items": ["Water"]
+      },
+      {
+        "title": "Yin / Yang",
+        "items": ["Yin"]
+      },
+      {
+        "title": "Ruling Hours",
+        "items": ["9 PM – 11 PM"]
+      },
+      {
+        "title": "Lucky Numbers",
+        "items": ["2", "5", "8"]
+      },
+      {
+        "title": "Lucky Colors",
+        "items": ["Yellow", "Grey", "Brown"]
+      },
+      {
+        "title": "Personality Traits",
+        "items": ["Generous", "Diligent", "Sincere", "Optimistic", "Naive", "Compassionate"]
+      },
+      {
+        "title": "Strengths",
+        "items": ["Warm-hearted and giving", "Honest and genuine in relationships", "Hardworking and goal-oriented", "Optimistic and cheerful"]
+      },
+      {
+        "title": "Weaknesses",
+        "items": ["Can be overly trusting and naive", "Struggles to say no", "Prone to overindulgence", "Gullible and easily taken advantage of"]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": ["Tiger", "Rabbit", "Goat"]
+      },
+      {
+        "title": "Career Paths",
+        "items": ["Veterinarian", "Chef", "Social worker", "Entertainer", "Hospitality manager"]
+      },
+      {
+        "title": "Famous People",
+        "items": ["Elton John", "Arnold Schwarzenegger", "Hillary Clinton", "Woody Allen"]
+      }
+    ]
+  }
+]

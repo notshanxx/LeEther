@@ -1,0 +1,1529 @@
+[
+  {
+    "id": "aries",
+    "slug": "aries",
+    "main": {
+      "name": "Aries",
+      "title": "The Ram",
+      "image": "/images/western-zodiac/aries.webp",
+      "shortDesc": "Aries is a bold and ambitious fire sign that dives headfirst into challenges. They are natural leaders with a competitive spirit and boundless energy.",
+      "quotes": [
+        {
+          "quote": "It always seems impossible until it's done.",
+          "quoteAuthor": "Nelson Mandela"
+        },
+        {
+          "quote": "The most courageous act is still to think for yourself. Aloud.",
+          "quoteAuthor": "Coco Chanel"
+        },
+        {
+          "quote": "Do one thing every day that scares you.",
+          "quoteAuthor": "Eleanor Roosevelt"
+        },
+        {
+          "quote": "I am not afraid of storms, for I am learning how to sail my ship.",
+          "quoteAuthor": "Louisa May Alcott"
+        },
+        {
+          "quote": "Fortune favors the bold.",
+          "quoteAuthor": "Virgil"
+        },
+        {
+          "quote": "The secret of getting ahead is getting started.",
+          "quoteAuthor": "Mark Twain"
+        },
+        {
+          "quote": "Don't watch the clock; do what it does. Keep going.",
+          "quoteAuthor": "Sam Levenson"
+        },
+        {
+          "quote": "You are never too old to set another goal or to dream a new dream.",
+          "quoteAuthor": "C.S. Lewis"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "March 21 – April 19"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Ram (♈)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Fire"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Mars"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Courageous",
+          "Determined",
+          "Confident",
+          "Enthusiastic",
+          "Impulsive",
+          "Pioneering"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Natural leadership",
+          "High energy and drive",
+          "Courageous in the face of challenges",
+          "Honest and direct communicator"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Impatient and quick-tempered",
+          "Prone to impulsive decisions",
+          "Can be competitive to a fault",
+          "Struggles with follow-through on long-term tasks"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Leo",
+          "Sagittarius",
+          "Gemini",
+          "Aquarius"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Entrepreneur",
+          "Military officer",
+          "Athlete",
+          "Firefighter",
+          "Sales executive"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Lady Gaga",
+          "Mariah Carey",
+          "Leonardo da Vinci",
+          "Elton John"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "taurus",
+    "slug": "taurus",
+    "main": {
+      "name": "Taurus",
+      "title": "The Bull",
+      "image": "/images/western-zodiac/taurus.webp",
+      "shortDesc": "Taurus is a grounded earth sign that values stability, comfort, and beauty. They are reliable and patient individuals who appreciate the finer things in life.",
+      "quotes": [
+        {
+          "quote": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting.",
+          "quoteAuthor": "Joyce Meyer"
+        },
+        {
+          "quote": "Beauty is not in the face; beauty is a light in the heart.",
+          "quoteAuthor": "Kahlil Gibran"
+        },
+        {
+          "quote": "The best things in life are worth waiting for.",
+          "quoteAuthor": "Unknown"
+        },
+        {
+          "quote": "Slow and steady wins the race.",
+          "quoteAuthor": "Aesop"
+        },
+        {
+          "quote": "To plant a garden is to believe in tomorrow.",
+          "quoteAuthor": "Audrey Hepburn"
+        },
+        {
+          "quote": "Persistence is the twin sister of excellence.",
+          "quoteAuthor": "March Catone"
+        },
+        {
+          "quote": "Enjoy the little things, for one day you may look back and realize they were the big things.",
+          "quoteAuthor": "Robert Brault"
+        },
+        {
+          "quote": "Wealth consists not in having great possessions, but in having few wants.",
+          "quoteAuthor": "Epictetus"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "April 20 – May 20"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Bull (♉)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Earth"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Venus"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Reliable",
+          "Patient",
+          "Practical",
+          "Devoted",
+          "Stubborn",
+          "Sensual"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Extremely dependable and loyal",
+          "Patient and persistent",
+          "Strong sense of aesthetics",
+          "Financially responsible"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Stubborn and resistant to change",
+          "Possessive in relationships",
+          "Can be materialistic",
+          "Slow to adapt to new situations"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Virgo",
+          "Capricorn",
+          "Cancer",
+          "Pisces"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Chef",
+          "Architect",
+          "Artist",
+          "Financial advisor",
+          "Real estate agent"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Adele",
+          "Dwayne Johnson",
+          "Queen Elizabeth II",
+          "Mark Zuckerberg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gemini",
+    "slug": "gemini",
+    "main": {
+      "name": "Gemini",
+      "title": "The Twins",
+      "image": "/images/western-zodiac/gemini.webp",
+      "shortDesc": "Gemini is a curious and adaptable air sign known for their quick wit and dual nature. They are social butterflies who thrive on communication and variety.",
+      "quotes": [
+        {
+          "quote": "The more that you read, the more things you will know.",
+          "quoteAuthor": "Dr. Seuss"
+        },
+        {
+          "quote": "Curiosity is the engine of achievement.",
+          "quoteAuthor": "Ken Robinson"
+        },
+        {
+          "quote": "Words are, of course, the most powerful drug used by mankind.",
+          "quoteAuthor": "Rudyard Kipling"
+        },
+        {
+          "quote": "I have a dream.",
+          "quoteAuthor": "Martin Luther King Jr."
+        },
+        {
+          "quote": "Variety is the spice of life.",
+          "quoteAuthor": "William Cowper"
+        },
+        {
+          "quote": "The mind is not a vessel to be filled, but a fire to be kindled.",
+          "quoteAuthor": "Plutarch"
+        },
+        {
+          "quote": "Wit is the salt of conversation, not the food.",
+          "quoteAuthor": "William Hazlitt"
+        },
+        {
+          "quote": "An investment in knowledge pays the best interest.",
+          "quoteAuthor": "Benjamin Franklin"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "May 21 – June 20"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Twins (♊)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Air"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Mercury"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Curious",
+          "Adaptable",
+          "Witty",
+          "Expressive",
+          "Indecisive",
+          "Sociable"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Excellent communicator",
+          "Highly adaptable and flexible",
+          "Intellectually curious",
+          "Great sense of humor"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Indecisive and inconsistent",
+          "Can be superficial at times",
+          "Prone to anxiety and restlessness",
+          "Tends to scatter focus across too many interests"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Libra",
+          "Aquarius",
+          "Aries",
+          "Leo"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Journalist",
+          "Teacher",
+          "Public relations specialist",
+          "Writer",
+          "Broadcaster"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Marilyn Monroe",
+          "Kanye West",
+          "Angelina Jolie",
+          "Johnny Depp"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cancer",
+    "slug": "cancer",
+    "main": {
+      "name": "Cancer",
+      "title": "The Crab",
+      "image": "/images/western-zodiac/cancer.webp",
+      "shortDesc": "Cancer is a deeply intuitive and emotional water sign that values home and family above all. They are nurturing and compassionate, with a strong sense of loyalty.",
+      "quotes": [
+        {
+          "quote": "Family is not an important thing. It's everything.",
+          "quoteAuthor": "Michael J. Fox"
+        },
+        {
+          "quote": "The most important thing in the world is family and love.",
+          "quoteAuthor": "John Wooden"
+        },
+        {
+          "quote": "Empathy is about finding echoes of another person in yourself.",
+          "quoteAuthor": "Mohsin Hamid"
+        },
+        {
+          "quote": "Home is not a place, it's a feeling.",
+          "quoteAuthor": "Cecelia Ahern"
+        },
+        {
+          "quote": "Where we love is home, home that our feet may leave, but not our hearts.",
+          "quoteAuthor": "Oliver Wendell Holmes"
+        },
+        {
+          "quote": "The heart has its reasons which reason knows not.",
+          "quoteAuthor": "Blaise Pascal"
+        },
+        {
+          "quote": "Love and compassion are necessities, not luxuries. Without them, humanity cannot survive.",
+          "quoteAuthor": "Dalai Lama"
+        },
+        {
+          "quote": "To the world you may be one person, but to one person you may be the world.",
+          "quoteAuthor": "Bill Wilson"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "June 21 – July 22"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Crab (♋)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Water"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "The Moon"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Nurturing",
+          "Intuitive",
+          "Loyal",
+          "Empathetic",
+          "Moody",
+          "Protective"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Deeply caring and compassionate",
+          "Highly intuitive and perceptive",
+          "Devoted to family and close friends",
+          "Creative and imaginative"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Overly sensitive and moody",
+          "Can be clingy or possessive",
+          "Tends to hold grudges",
+          "Difficulty letting go of the past"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Scorpio",
+          "Pisces",
+          "Taurus",
+          "Virgo"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Nurse",
+          "Social worker",
+          "Chef",
+          "Therapist",
+          "Interior designer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Princess Diana",
+          "Tom Hanks",
+          "Selena Gomez",
+          "Meryl Streep"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leo",
+    "slug": "leo",
+    "main": {
+      "name": "Leo",
+      "title": "The Lion",
+      "image": "/images/western-zodiac/leo.webp",
+      "shortDesc": "Leo is a charismatic and dramatic fire sign that loves to be in the spotlight. They are warm-hearted, generous leaders who inspire others with their confidence.",
+      "quotes": [
+        {
+          "quote": "The lion does not turn around when a small dog barks.",
+          "quoteAuthor": "African Proverb"
+        },
+        {
+          "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+          "quoteAuthor": "John C. Maxwell"
+        },
+        {
+          "quote": "Act as if what you do makes a difference. It does.",
+          "quoteAuthor": "William James"
+        },
+        {
+          "quote": "The best way to predict the future is to create it.",
+          "quoteAuthor": "Peter Drucker"
+        },
+        {
+          "quote": "Shine your light and make a positive impact on the world.",
+          "quoteAuthor": "Roy T. Bennett"
+        },
+        {
+          "quote": "Courage is grace under pressure.",
+          "quoteAuthor": "Ernest Hemingway"
+        },
+        {
+          "quote": "Be yourself; everyone else is already taken.",
+          "quoteAuthor": "Oscar Wilde"
+        },
+        {
+          "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+          "quoteAuthor": "Winston Churchill"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "July 23 – August 22"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Lion (♌)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Fire"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "The Sun"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Charismatic",
+          "Generous",
+          "Confident",
+          "Dramatic",
+          "Loyal",
+          "Ambitious"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Natural born leader",
+          "Warm and generous with loved ones",
+          "Creative and theatrical",
+          "Highly motivated and optimistic"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be arrogant or self-centered",
+          "Craves constant attention and validation",
+          "Prone to dramatic reactions",
+          "Stubborn when challenged"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Aries",
+          "Sagittarius",
+          "Gemini",
+          "Libra"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Actor",
+          "CEO",
+          "Politician",
+          "Fashion designer",
+          "Event planner"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Barack Obama",
+          "Coco Chanel",
+          "Jennifer Lopez",
+          "Chris Hemsworth"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "virgo",
+    "slug": "virgo",
+    "main": {
+      "name": "Virgo",
+      "title": "The Maiden",
+      "image": "/images/western-zodiac/virgo.webp",
+      "shortDesc": "Virgo is a meticulous and analytical earth sign with a deep sense of duty. They are practical problem-solvers who strive for perfection in everything they do.",
+      "quotes": [
+        {
+          "quote": "The details are not the details. They make the design.",
+          "quoteAuthor": "Charles Eames"
+        },
+        {
+          "quote": "Excellence is not a destination but a continuous journey that never ends.",
+          "quoteAuthor": "Brian Tracy"
+        },
+        {
+          "quote": "In character, in manner, in style, in all things, the supreme excellence is simplicity.",
+          "quoteAuthor": "Henry Wadsworth Longfellow"
+        },
+        {
+          "quote": "Order is not pressure which is imposed on society from without, but an equilibrium which is set up from within.",
+          "quoteAuthor": "Jose Ortega y Gasset"
+        },
+        {
+          "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+          "quoteAuthor": "Vince Lombardi"
+        },
+        {
+          "quote": "The difference between ordinary and extraordinary is that little extra.",
+          "quoteAuthor": "Jimmy Johnson"
+        },
+        {
+          "quote": "A place for everything, everything in its place.",
+          "quoteAuthor": "Benjamin Franklin"
+        },
+        {
+          "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+          "quoteAuthor": "Aristotle"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "August 23 – September 22"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Maiden (♍)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Earth"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Mercury"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Analytical",
+          "Hardworking",
+          "Reliable",
+          "Detail-oriented",
+          "Critical",
+          "Modest"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Exceptional attention to detail",
+          "Highly organized and methodical",
+          "Loyal and dependable",
+          "Practical and resourceful"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Overly critical of self and others",
+          "Tends toward perfectionism and worry",
+          "Can be overly conservative",
+          "Difficulty delegating tasks"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Taurus",
+          "Capricorn",
+          "Cancer",
+          "Scorpio"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Doctor",
+          "Accountant",
+          "Editor",
+          "Data analyst",
+          "Nutritionist"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Beyoncé",
+          "Keanu Reeves",
+          "Mother Teresa",
+          "Freddie Mercury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "libra",
+    "slug": "libra",
+    "main": {
+      "name": "Libra",
+      "title": "The Scales",
+      "image": "/images/western-zodiac/libra.webp",
+      "shortDesc": "Libra is a charming and diplomatic air sign that seeks balance and harmony in all areas of life. They are fair-minded and sociable with a love for beauty and justice.",
+      "quotes": [
+        {
+          "quote": "Peace is not the absence of conflict, but the ability to handle conflict by peaceful means.",
+          "quoteAuthor": "Ronald Reagan"
+        },
+        {
+          "quote": "Beauty is truth, truth beauty — that is all ye know on earth, and all ye need to know.",
+          "quoteAuthor": "John Keats"
+        },
+        {
+          "quote": "Injustice anywhere is a threat to justice everywhere.",
+          "quoteAuthor": "Martin Luther King Jr."
+        },
+        {
+          "quote": "Balance is not something you find, it's something you create.",
+          "quoteAuthor": "Jana Kingsford"
+        },
+        {
+          "quote": "The measure of intelligence is the ability to change.",
+          "quoteAuthor": "Albert Einstein"
+        },
+        {
+          "quote": "Treat others as you wish to be treated.",
+          "quoteAuthor": "Confucius"
+        },
+        {
+          "quote": "In the middle of difficulty lies opportunity.",
+          "quoteAuthor": "Albert Einstein"
+        },
+        {
+          "quote": "Diplomacy is the art of letting someone else have your way.",
+          "quoteAuthor": "Daniele Vare"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "September 23 – October 22"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Scales (♎)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Air"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Venus"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Diplomatic",
+          "Charming",
+          "Fair-minded",
+          "Social",
+          "Indecisive",
+          "Idealistic"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Natural peacemaker and mediator",
+          "Excellent social skills",
+          "Strong sense of justice and fairness",
+          "Appreciates art, culture, and beauty"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Struggles with making decisions",
+          "Avoids conflict to a fault",
+          "Can be people-pleasing",
+          "Prone to self-pity when balance is lost"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Gemini",
+          "Aquarius",
+          "Leo",
+          "Sagittarius"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Lawyer",
+          "Judge",
+          "Diplomat",
+          "Fashion consultant",
+          "Counselor"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Kim Kardashian",
+          "Will Smith",
+          "Mahatma Gandhi",
+          "Eminem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "scorpio",
+    "slug": "scorpio",
+    "main": {
+      "name": "Scorpio",
+      "title": "The Scorpion",
+      "image": "/images/western-zodiac/scorpio.webp",
+      "shortDesc": "Scorpio is an intense and passionate water sign with a magnetic presence. They are fiercely determined and resourceful, with a deep capacity for transformation.",
+      "quotes": [
+        {
+          "quote": "The phoenix must burn to emerge.",
+          "quoteAuthor": "Janet Fitch"
+        },
+        {
+          "quote": "Out of your vulnerabilities will come your strength.",
+          "quoteAuthor": "Sigmund Freud"
+        },
+        {
+          "quote": "I am not what happened to me. I am what I choose to become.",
+          "quoteAuthor": "Carl Jung"
+        },
+        {
+          "quote": "The truth will set you free, but first it will make you miserable.",
+          "quoteAuthor": "James A. Garfield"
+        },
+        {
+          "quote": "Transformation is a process, and as life happens there are tons of ups and downs.",
+          "quoteAuthor": "Rick Warren"
+        },
+        {
+          "quote": "Power is not revealed by striking hard or often, but by striking true.",
+          "quoteAuthor": "Honoré de Balzac"
+        },
+        {
+          "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+          "quoteAuthor": "Albert Camus"
+        },
+        {
+          "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+          "quoteAuthor": "Ralph Waldo Emerson"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "October 23 – November 21"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Scorpion (♏)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Water"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Pluto",
+          "Mars (traditional)"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Passionate",
+          "Resourceful",
+          "Determined",
+          "Mysterious",
+          "Jealous",
+          "Loyal"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Fiercely loyal to those they trust",
+          "Highly perceptive and intuitive",
+          "Determined and persistent in goals",
+          "Brave in facing difficult truths"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Prone to jealousy and possessiveness",
+          "Can be secretive and distrustful",
+          "Tends to hold grudges",
+          "Manipulative when feeling threatened"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Cancer",
+          "Pisces",
+          "Virgo",
+          "Capricorn"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Detective",
+          "Surgeon",
+          "Psychologist",
+          "Researcher",
+          "Financial analyst"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Leonardo DiCaprio",
+          "Katy Perry",
+          "Bill Gates",
+          "Marie Curie"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sagittarius",
+    "slug": "sagittarius",
+    "main": {
+      "name": "Sagittarius",
+      "title": "The Archer",
+      "image": "/images/western-zodiac/sagittarius.webp",
+      "shortDesc": "Sagittarius is an adventurous and optimistic fire sign with an insatiable thirst for knowledge and freedom. They are philosophical wanderers who love exploring the world.",
+      "quotes": [
+        {
+          "quote": "Life is either a daring adventure or nothing at all.",
+          "quoteAuthor": "Helen Keller"
+        },
+        {
+          "quote": "The world is a book, and those who do not travel read only one page.",
+          "quoteAuthor": "Saint Augustine"
+        },
+        {
+          "quote": "Not all those who wander are lost.",
+          "quoteAuthor": "J.R.R. Tolkien"
+        },
+        {
+          "quote": "Adventure is worthwhile in itself.",
+          "quoteAuthor": "Amelia Earhart"
+        },
+        {
+          "quote": "To travel is to live.",
+          "quoteAuthor": "Hans Christian Andersen"
+        },
+        {
+          "quote": "The truth is rarely pure and never simple.",
+          "quoteAuthor": "Oscar Wilde"
+        },
+        {
+          "quote": "I haven't been everywhere, but it's on my list.",
+          "quoteAuthor": "Susan Sontag"
+        },
+        {
+          "quote": "Once a year, go somewhere you've never been before.",
+          "quoteAuthor": "Dalai Lama"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "November 22 – December 21"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Archer (♐)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Fire"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Jupiter"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Optimistic",
+          "Adventurous",
+          "Philosophical",
+          "Honest",
+          "Restless",
+          "Independent"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Enthusiastic and full of energy",
+          "Open-minded and accepting",
+          "Great sense of humor",
+          "Honest and straightforward"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Commitment-averse in relationships",
+          "Can be blunt to the point of rudeness",
+          "Prone to over-promising",
+          "Restless and easily bored"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Aries",
+          "Leo",
+          "Libra",
+          "Aquarius"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Travel writer",
+          "Professor",
+          "Philosopher",
+          "Pilot",
+          "Life coach"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Taylor Swift",
+          "Brad Pitt",
+          "Walt Disney",
+          "Miley Cyrus"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "capricorn",
+    "slug": "capricorn",
+    "main": {
+      "name": "Capricorn",
+      "title": "The Sea-Goat",
+      "image": "/images/western-zodiac/capricorn.webp",
+      "shortDesc": "Capricorn is a disciplined and ambitious earth sign with an unmatched work ethic. They are responsible and goal-oriented, steadily climbing toward success.",
+      "quotes": [
+        {
+          "quote": "Success usually comes to those who are too busy to be looking for it.",
+          "quoteAuthor": "Henry David Thoreau"
+        },
+        {
+          "quote": "Ambition is the path to success. Persistence is the vehicle you arrive in.",
+          "quoteAuthor": "Bill Bradley"
+        },
+        {
+          "quote": "The climb might be tough and challenging, but the view from the top is worth it.",
+          "quoteAuthor": "Nicky Gumbel"
+        },
+        {
+          "quote": "Hard work beats talent when talent doesn't work hard.",
+          "quoteAuthor": "Tim Notke"
+        },
+        {
+          "quote": "Discipline is the bridge between goals and accomplishment.",
+          "quoteAuthor": "Jim Rohn"
+        },
+        {
+          "quote": "The secret of success is to do the common thing uncommonly well.",
+          "quoteAuthor": "John D. Rockefeller Jr."
+        },
+        {
+          "quote": "You have to learn the rules of the game. And then you have to play better than anyone else.",
+          "quoteAuthor": "Albert Einstein"
+        },
+        {
+          "quote": "With self-discipline most anything is possible.",
+          "quoteAuthor": "Theodore Roosevelt"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "December 22 – January 19"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Sea-Goat (♑)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Earth"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Saturn"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Disciplined",
+          "Ambitious",
+          "Responsible",
+          "Practical",
+          "Reserved",
+          "Patient"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Exceptional work ethic and discipline",
+          "Highly responsible and reliable",
+          "Strong long-term planner",
+          "Resilient in the face of obstacles"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Can be emotionally cold or distant",
+          "Overly focused on status and success",
+          "Pessimistic in tough situations",
+          "Difficulty opening up to others"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Taurus",
+          "Virgo",
+          "Scorpio",
+          "Pisces"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "CEO",
+          "Engineer",
+          "Banker",
+          "Manager",
+          "Government official"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Michelle Obama",
+          "Denzel Washington",
+          "Stephen Hawking",
+          "Martin Luther King Jr."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aquarius",
+    "slug": "aquarius",
+    "main": {
+      "name": "Aquarius",
+      "title": "The Water Bearer",
+      "image": "/images/western-zodiac/aquarius.webp",
+      "shortDesc": "Aquarius is a progressive and unconventional air sign driven by innovation and humanitarian ideals. They are independent thinkers who march to the beat of their own drum.",
+      "quotes": [
+        {
+          "quote": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself.",
+          "quoteAuthor": "George Bernard Shaw"
+        },
+        {
+          "quote": "Here's to the crazy ones, the misfits, the rebels, the troublemakers.",
+          "quoteAuthor": "Steve Jobs"
+        },
+        {
+          "quote": "Imagination is more important than knowledge.",
+          "quoteAuthor": "Albert Einstein"
+        },
+        {
+          "quote": "The future belongs to those who believe in the beauty of their dreams.",
+          "quoteAuthor": "Eleanor Roosevelt"
+        },
+        {
+          "quote": "Be the change you wish to see in the world.",
+          "quoteAuthor": "Mahatma Gandhi"
+        },
+        {
+          "quote": "No matter what people tell you, words and ideas can change the world.",
+          "quoteAuthor": "Robin Williams"
+        },
+        {
+          "quote": "Innovation distinguishes between a leader and a follower.",
+          "quoteAuthor": "Steve Jobs"
+        },
+        {
+          "quote": "The only way to do great work is to love what you do.",
+          "quoteAuthor": "Steve Jobs"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "January 20 – February 18"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Water Bearer (♒)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Air"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Uranus",
+          "Saturn (traditional)"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Progressive",
+          "Original",
+          "Independent",
+          "Humanitarian",
+          "Aloof",
+          "Inventive"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Innovative and forward-thinking",
+          "Deeply humanitarian and altruistic",
+          "Highly intellectual",
+          "Open to all kinds of people"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Emotionally detached in relationships",
+          "Can be stubborn about their own views",
+          "Unpredictable and erratic",
+          "Tendency to be contrary"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Gemini",
+          "Libra",
+          "Sagittarius",
+          "Aries"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Scientist",
+          "Social activist",
+          "Software developer",
+          "Inventor",
+          "Humanitarian worker"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Oprah Winfrey",
+          "Ellen DeGeneres",
+          "Thomas Edison",
+          "Bob Marley"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pisces",
+    "slug": "pisces",
+    "main": {
+      "name": "Pisces",
+      "title": "The Fish",
+      "image": "/images/western-zodiac/pisces.webp",
+      "shortDesc": "Pisces is a compassionate and dreamy water sign deeply connected to emotions and intuition. They are artistic and empathetic souls with a rich inner world.",
+      "quotes": [
+        {
+          "quote": "We are all of us stars, and we deserve to twinkle.",
+          "quoteAuthor": "Marilyn Monroe"
+        },
+        {
+          "quote": "Creativity takes courage.",
+          "quoteAuthor": "Henri Matisse"
+        },
+        {
+          "quote": "The soul that sees beauty may sometimes walk alone.",
+          "quoteAuthor": "Johann Wolfgang von Goethe"
+        },
+        {
+          "quote": "Art enables us to find ourselves and lose ourselves at the same time.",
+          "quoteAuthor": "Thomas Merton"
+        },
+        {
+          "quote": "I dream my painting and then I paint my dream.",
+          "quoteAuthor": "Vincent van Gogh"
+        },
+        {
+          "quote": "To love is to suffer. To avoid suffering, one must not love. But then, one suffers from not loving.",
+          "quoteAuthor": "Woody Allen"
+        },
+        {
+          "quote": "The most beautiful things in the world cannot be seen or touched; they are felt with the heart.",
+          "quoteAuthor": "Antoine de Saint-Exupéry"
+        },
+        {
+          "quote": "Music gives color to the air of the moment.",
+          "quoteAuthor": "Karl Lagerfeld"
+        }
+      ]
+    },
+    "infos": [
+      {
+        "title": "Date Range",
+        "items": [
+          "February 19 – March 20"
+        ]
+      },
+      {
+        "title": "Symbol",
+        "items": [
+          "The Fish (♓)"
+        ]
+      },
+      {
+        "title": "Element",
+        "items": [
+          "Water"
+        ]
+      },
+      {
+        "title": "Ruling Planet",
+        "items": [
+          "Neptune",
+          "Jupiter (traditional)"
+        ]
+      },
+      {
+        "title": "Personality Traits",
+        "items": [
+          "Compassionate",
+          "Artistic",
+          "Intuitive",
+          "Gentle",
+          "Escapist",
+          "Selfless"
+        ]
+      },
+      {
+        "title": "Strengths",
+        "items": [
+          "Deeply empathetic and understanding",
+          "Highly creative and artistic",
+          "Intuitive and spiritually aware",
+          "Selfless and giving"
+        ]
+      },
+      {
+        "title": "Weaknesses",
+        "items": [
+          "Prone to escapism and daydreaming",
+          "Easily influenced by others",
+          "Can be overly idealistic",
+          "Difficulty with boundaries and self-assertion"
+        ]
+      },
+      {
+        "title": "Love Compatibility",
+        "items": [
+          "Cancer",
+          "Scorpio",
+          "Taurus",
+          "Capricorn"
+        ]
+      },
+      {
+        "title": "Career Paths",
+        "items": [
+          "Musician",
+          "Poet",
+          "Nurse",
+          "Spiritual counselor",
+          "Photographer"
+        ]
+      },
+      {
+        "title": "Famous People",
+        "items": [
+          "Albert Einstein",
+          "Rihanna",
+          "Steve Jobs",
+          "Justin Bieber"
+        ]
+      }
+    ]
+  }
+]
