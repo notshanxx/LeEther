@@ -4,7 +4,7 @@ const miniTests = [{
     name: "Szondi Test",
     description: "Explore your subconscious desires",
     icon: "🧠",
-    href: "/mini-tests/szondi",
+    href: "/mini-test/szondi",
   }
  
 ];
