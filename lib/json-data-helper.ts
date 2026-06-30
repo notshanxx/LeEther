@@ -1,8 +1,11 @@
 
-export function getAll(data: any[]) {
+export function getAll<T>(data: T[]): T[] {
   return data;
 }
 
-export function getById(data: any[], id: string) {
+export function getById<T extends { id: string }>(
+  data: T[],
+  id: string
+): T | undefined {
   return data.find((item) => item.id === id);
 }
