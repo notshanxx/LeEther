@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useState } from "react";
 
 export default function ZodiacPage() {
-  const [selected, setSelected] = useState(null);
+  const [selected, setSelected] = useState(null as "western" | "chinese" | null);
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-base-100 text-base-content px-4">
