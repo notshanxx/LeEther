@@ -33,7 +33,7 @@ export default function FeatureLists() {
         {mbtiTypes.map((data) => (
           <Card
             key={data.id}
-            imageSrc={`/mbti/${data.id}.svg`}
+            imageSrc={`/mbti/${data.id.toUpperCase()}.svg`}
             imageAlt={data.main.title}
             title={data.main.name +" - " + data.main.title}
             description={data.main.shortDesc.split(".")[0]}
