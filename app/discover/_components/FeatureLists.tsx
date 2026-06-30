@@ -1,7 +1,6 @@
 "use client";
 import DynamicImage from "@/app/_components/DynamicImage";
 import Link from "next/link";
-import { useState } from "react";
 export default function FeatureLists() {
   const features = [
     {
