@@ -1,10 +1,30 @@
+import Link from "next/link";
+
 export default function HomePage() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
-      <h1 className="text-4xl font-bold">Home Page</h1>
-      <p className="mt-4 text-lg text-gray-600">
-        This is the home page of the application.
-      </p>
+    <div className="hero min-h-screen">
+      <div className="hero-content ">
+        <div className="max-w-md ">
+          <h1 className="text-5xl font-bold ">
+            Welcome to 
+            <br></br>
+            <span className="text-primary">
+              LeEther
+            </span>
+              
+          </h1>
+
+          <p className="py-6 max-w-xl">
+            Explore personalities, zodiac signs, and discover what makes you
+            unique.
+          </p>
+          <div className="aura">
+            <Link href="/profile" className="btn btn-primary">
+              Setup Your Card
+            </Link>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
