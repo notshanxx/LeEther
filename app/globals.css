@@ -2,8 +2,7 @@
 @plugin "daisyui" {
   themes:
     lofi --default,
-    black --prefersdark, cupcake;
+    black;
 }
-
 
 @custom-variant dark (&:where([data-theme=black], [data-theme=black] *));
