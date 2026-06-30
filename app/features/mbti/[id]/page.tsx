@@ -53,7 +53,7 @@ export default async function MBTIPage({
             </div>
           </div>
 
-          <Image src={`/mbti/${id}.svg`} alt={id} width={200} height={200}  />
+          <Image src={`/mbti/${id.toLowerCase()}.svg`} alt={id} width={200} height={200}  />
         </div>
       </Card3D>
 
