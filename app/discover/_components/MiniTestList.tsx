@@ -1,42 +1,12 @@
 import Link from "next/link";
 
-const miniTests = [
-  {
-    name: "MBTI Test",
-    description: "Discover your personality type",
-    icon: "📝",
-    href: "/mini-tests/mbti",
-  },
-  {
-    name: "Love Language Test",
-    description: "Find your primary love language",
-    icon: "💖",
-    href: "/mini-tests/love-language",
-  },
-  {
-    name: "Career Interest Test",
-    description: "Explore suitable career paths",
-    icon: "💼",
-    href: "/mini-tests/career",
-  },
-  {
-    name: "Friendship Style Test",
-    description: "Learn how you connect with others",
-    icon: "🤝",
-    href: "/mini-tests/friendship",
-  },
-  {
-    name: "Stress Management Test",
-    description: "Assess your stress coping strategies",
-    icon: "🧘‍♂️",
-    href: "/mini-tests/stress-management",
-  },
-  {
-    name: "Emotional Intelligence Test",
-    description: "Evaluate your emotional awareness",
+const miniTests = [{
+    name: "Szondi Test",
+    description: "Explore your subconscious desires",
     icon: "🧠",
-    href: "/mini-tests/emotional-intelligence",
-  },
+    href: "/mini-tests/szondi",
+  }
+ 
 ];
 export default function MiniTestList() {
   return (
@@ -51,18 +21,35 @@ export default function MiniTestList() {
 
       {miniTests.map((test) => (
         <li key={test.href}>
-          <ul className="list-row hover:bg-base-200 transition-colors">
-            <div className="text-2xl">{test.icon}</div>
+          <ul className="list-row flex item-center hover:bg-base-200 transition-colors">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              width="24"
+              height="24"
+              className="text-2xl shrink-0 self-center"
+              fill="none"
+              stroke="currentColor"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
+            >
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+              <polyline points="14 2 14 8 20 8" />
+              <line x1="16" x2="8" y1="13" y2="13" />
+              <line x1="16" x2="8" y1="17" y2="17" />
+              <polyline points="10 9 9 9 8 9" />
+            </svg>
 
             <div>
               <div>{test.name}</div>
-              <div className="text-xs uppercase font-semibold opacity-60">
+              <div className="text-xs font-semibold opacity-60">
                 {test.description}
               </div>
             </div>
             {/* btn */}
 
-            <button className="btn btn-square btn-ghost ml-auto">
+            {/* <button className="btn btn-square btn-ghost ml-auto">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
@@ -77,7 +64,7 @@ export default function MiniTestList() {
               >
                 <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
               </svg>
-            </button>
+            </button> */}
 
             <Link href={test.href}>
               <button className="btn btn-square btn-ghost">
