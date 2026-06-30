@@ -81,7 +81,7 @@ export default function ZodiacPage() {
               href="/features/zodiac/western"
               className="btn btn-primary mt-4"
             >
-              Let's go!
+              Let&apos;s go!
             </Link>
           </div>
         )}
