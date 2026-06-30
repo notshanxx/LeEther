@@ -3,7 +3,7 @@
 import { useEffect, useRef } from "react";
 
 export default function Modal({ open, onClose, title, children }: { open: boolean; onClose: () => void; title: string; children: React.ReactNode }) {
-  const dialogRef = useRef(null);
+  const dialogRef = useRef<HTMLDialogElement | null>(null);
 
   useEffect(() => {
     const dialog = dialogRef.current;
