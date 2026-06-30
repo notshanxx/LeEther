@@ -1,36 +1,134 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LeEther
 
-## Getting Started
+**LeEther** is a personality and self-discovery web application that allows users to explore MBTI personalities, Chinese and Western zodiac signs, take mini personality tests, and create a customizable profile card. The goal of the project is to provide an interactive and visually appealing platform for self-exploration.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+
+
+
+## Live Demo
+
+**View Live:** [https://your-website-url.vercel.app](https://le-ether.vercel.app/)
+
+
+
+
+
+
+## Features
+
+- MBTI
+- Zodiac Signs (Chinese & Western)
+- Mini Tests
+- Profile Card
+- To Be Udated!!
+
+
+
+
+
+## Tech Used
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- DaisyUI
+- Zustand (state management)
+
+
+
+
+## Design Decisions
+
+I spent a lot of time worrying about CSS and making the website look perfect, which slowed down the development process. To focus more on building the actual features of LeEther, I decided to keep the design simple and minimal.
+
+I used **Tailwind CSS** and **DaisyUI** because they allowed me to create a clean and responsive interface quickly without spending too much time writing custom CSS (guess what its more better and faster).
+
+
+
+
+
+
+## Structure
+
+Heres the simple structure of the app. I've used default template of next js and worked from there. Below is what it look like:
+
+```
+└── 📁app
+    └── 📁_components
+    └── 📁discover
+    └── 📁features
+    └── 📁home
+    └── 📁mini-test
+    └── 📁profile
+└── 📁lib
+└── 📁stores
+└── 📁public
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+`/app` - is where you can find the routes and the components
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+`/_components` - you can find reusable and main components here like the 3D Card, Modal, NavBar and many more.. You can also find `_components` in the routes folder like the `/discover` and `/profile` for easy navigation
 
-## Learn More
+`/data` - you can find data here for the app but there's also `/data` in the routes for easy navigation
 
-To learn more about Next.js, take a look at the following resources:
+`/lib` - here lies the helpful helpers (tysm helpers)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`/stores` - lastly the store is where the persistent data I collect from you mweheheehhe (Im not gonna sell you out) data are saved on localStorage so if you use another browser byebye data
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Routes
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+here are the main routes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+when you open the site in `/` it will redirect you to `/home`
+
+- /home <--landing page
+- /profile <--user/your profile
+- /discover <-- here is where you discover things to do in this website
+
+
+
+### Assets
+
+assets are organized in its each own folder
+
+```
+/public
+    /mbti
+    /zodiacs
+        /chinese
+        /western
+```
+
+
+
+### Helpers
+
+```
+/lib
+/stores
+```
+
+
+
+## Run on your own computer
+
+```bash
+git clone <repository>
+cd leether
+npm install
+npm run dev
+```
+
+
+
+## Resources
+Tysm to this resources ive found
+
+- [16personalities](https://www.16personalities.com/) for the mbti icons or svg
+- [feathericons](https://github.com/feathericons/feather) for the icons
+
