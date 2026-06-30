@@ -2,6 +2,7 @@ import Image from "next/image";
 import { getById } from "@/lib/json-data-helper";
 import data from "../_data/western-zodiac.json";
 import Card3D from "@/app/_components/Card3D";
+import { notFound } from "next/navigation";
 
 export default async function WesternZodiacSignPage({
   params,
@@ -11,6 +12,10 @@ export default async function WesternZodiacSignPage({
   const { id } = await params;
 
   const westernZodiacData = getById(data, id);
+
+  if (!westernZodiacData) {
+    return notFound();
+  }
   const mainData = westernZodiacData?.main;
   const infoData = westernZodiacData?.infos;
   console.log("westernZodiacData:", infoData);

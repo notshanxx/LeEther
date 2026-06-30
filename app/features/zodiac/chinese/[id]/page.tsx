@@ -2,6 +2,7 @@ import Image from "next/image";
 import { getById } from "@/lib/json-data-helper";
 import data from "../_data/chinese-zodiac.json";
 import Card3D from "@/app/_components/Card3D";
+import { notFound } from "next/navigation";
 
 export default async function ChineseZodiacSignPage({
   params,
@@ -11,8 +12,14 @@ export default async function ChineseZodiacSignPage({
   const { id } = await params;
 
   const chineseZodiacData = getById(data, id);
-  const mainData = chineseZodiacData?.main;
-  const infoData = chineseZodiacData?.infos;
+
+  if (!chineseZodiacData) {
+      return notFound();
+    }
+
+
+  const mainData = chineseZodiacData.main;
+  const infoData = chineseZodiacData.infos;
   console.log("chineseZodiacData:", infoData);
 
   return (
